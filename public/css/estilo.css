@@ -1,0 +1,42 @@
+.nav-item.active{
+	border-bottom: 5px solid #eb2f06;
+}
+.nav-item:hover {
+	border-bottom: 5px solid #f6b93b;
+}
+
+.nav-item {
+	padding: 7px;
+}
+
+.bg-datacenter {
+	background: url('/img/datacenter35.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.bg-blue {
+	background-color: #0a3d62;
+}
+
+.bg-black-50 {
+	background: rgba(0,0,0,.50);
+}
+
+#top-section-border {
+  bottom: 70;
+  width: 100%;
+  height: 70px;
+}
+
+#middle-section {
+  width: 100%;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #D0ADA7;
+}
+#middle-section p {
+  margin: 0 auto;
+  width: 350px;
+}
